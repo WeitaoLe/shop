@@ -4,6 +4,6 @@ flex布局非常好用，它在移动端可以取代float,充分利用它的几�
 
 # 界面截图
 
-![image](http://odqbl6uo4.bkt.clouddn.com/%E6%88%AA%E5%B1%8F1.png)
+![image](http://odqbl6uo4.bkt.clouddn.com/jieping1.png)
 
-![image](http://odqbl6uo4.bkt.clouddn.com/%E6%88%AA%E5%B1%8F2.png)
+![image](http://odqbl6uo4.bkt.clouddn.com/jieping2.png)
